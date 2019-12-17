@@ -1,0 +1,12 @@
+name = "Minimal"
+license = "Apache-2.0"
+licenselink = "https://github.com/ChrisWilding/www.chriswilding.dev/blob/master/LICENSE"
+description = "Minimal theme for Chris Wilding's personal website"
+homepage = "https://www.chriswilding.dev/"
+tags = []
+features = []
+min_version = "0.61"
+
+[author]
+  name = "Chris Wilding"
+  homepage = "https://www.chriswilding.dev/"
