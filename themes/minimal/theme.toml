@@ -5,7 +5,7 @@ description = "Minimal theme for Chris Wilding's personal website"
 homepage = "https://www.chriswilding.dev/"
 tags = []
 features = []
-min_version = "0.61"
+min_version = "0.54"
 
 [author]
   name = "Chris Wilding"
