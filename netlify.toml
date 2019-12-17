@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'none'; script-src 'none'; object-src 'none'; style-src 'self'; img-src 'none'; media-src 'none'; frame-src 'none'; font-src 'none'; connect-src 'none'"
+    Content-Security-Policy = "default-src 'none'; base-uri 'none'; connect-src 'none'; font-src 'none'; form-action 'none'; frame-ancestors 'none'; frame-src 'none'; img-src 'none'; media-src 'none'; object-src 'none'; script-src 'none'; style-src 'self';"
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
