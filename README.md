@@ -1,2 +1,2 @@
-# www.chriswilding.dev
-Chris Wilding's Personal Website
+# Chris Wilding's Personal Website
+
