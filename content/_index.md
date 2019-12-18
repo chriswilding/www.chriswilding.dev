@@ -1,5 +1,6 @@
----
----
++++
+Title = "Chris Wilding"
++++
 # Hi, I'm Chris Wilding
 
 I'm a software engineer living and working in Manchester, UK.
