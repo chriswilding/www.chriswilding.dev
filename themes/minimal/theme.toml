@@ -1,6 +1,6 @@
 name = "Minimal"
 license = "Apache-2.0"
-licenselink = "https://github.com/ChrisWilding/www.chriswilding.co.uk/blob/master/LICENSE"
+licenselink = "https://github.com/chriswilding/www.chriswilding.co.uk/blob/master/LICENSE"
 description = "Minimal theme for Chris Wilding's personal website"
 homepage = "https://www.chriswilding.co.uk/"
 tags = []
